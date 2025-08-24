@@ -29,7 +29,7 @@ We develop a comprehensive rent-versus-buy framework for Colombia's VIS/VIP (Viv
 
 Analyzing scenarios across different inflation rates (1-5%) and property appreciation rates (0-2%), we find no scenario in which VIS ownership outperforms renting within a 20-year horizon. The best-case scenario leaves owners 186.4 million COP worse off than renters. We identify three key mechanisms: (1) initial overpricing at subsidy ceilings creates immediate negative equity, (2) continuous new subsidized supply suppresses appreciation in peripheral locations, and (3) high financing costs for uncovered portions and finishing work compound the disadvantage.
 
-Our findings suggest the current VIS model may perpetuate rather than alleviate wealth inequality, effectively subsidizing construction companies while trapping working families in wealth-destroying assets. Policy implications include redesigning subsidies as direct rental assistance or location-based vouchers rather than homeownership programs.
+To our knowledge, this is the first comprehensive financial analysis comparing total ownership costs to renting for Colombia's VIS program, despite widespread anecdotal evidence of quality issues and subsidy failures. Our findings suggest the current VIS model may perpetuate rather than alleviate wealth inequality, effectively subsidizing construction companies while trapping working families in wealth-destroying assets. Policy implications include redesigning subsidies as direct rental assistance or location-based vouchers rather than homeownership programs.
 
 **JEL Codes:** R21, R31, H53, O18, D14
 
